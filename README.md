@@ -8,14 +8,17 @@
 
 ### 🖥️ Client (Untuk User)
 - **Tampilan Grid Modern**: Daftar game yang rapi dengan cover art.
+- **Game Detail**: Preview detail game sebelum dimainkan.
+- **Support Animasi**: Mendukung cover bergerak (GIF/WebP).
 - **Pencarian Cepat**: Temukan game dengan instan tanpa lag.
 - **Filter Kategori**: Mendukung kategori Online, Offline, dan Populer.
 - **Kirim Pesan**: Request game atau lapor masalah langsung ke Admin.
-- **Ringan**: Menggunakan resource PC yang sangat minim.
-- **Portable**: Tidak perlu instalasi, cukup copy dan jalankan.
+- **Ringan & Portable**: Tanpa instalasi.
 
 ### 🛡️ Admin Panel (Untuk Operator)
 - **Manajemen Game**: Tambah, Edit, Hapus game dengan mudah.
+- **Optimasi Cover Otomatis**: Resize & convert gambar agar ringan.
+- **Support Cover Animasi**: Bisa upload GIF/WebP (auto-optimize).
 - **Statistik**: Pantau game yang paling sering dimainkan.
 - **Pesan/Pengumuman**: Kirim pesan ke client atau buat pengumuman global.
 - **Pengaturan**: Konfigurasi server dan tampilan dengan mudah.
@@ -31,9 +34,10 @@ Silakan download versi terbaru di halaman **[Releases](../../releases)**.
 
 ## 🚀 Cara Penggunaan
 
-1.  **Download** `GameMenuAdmin.exe` dan `GameMenuClient.exe`.
-2.  Jalankan **GameMenuAdmin.exe** untuk pertama kali.
-3.  Masuk ke menu **Kelola Game** untuk menambahkan daftar game.
+1.  **Download** `GameMenu_vx.x.x.7z` .
+2.  **Ekstrak** filenya di dalam **Game Disk** (Gamedisk) kalian masing-masing.
+3.  **Jalankan** `GameMenuAdmin.exe` terlebih dahulu untuk inisialisasi awal.
+4.  Setelah itu, Client gunakan GameMenu.exe.
 
 ---
 
