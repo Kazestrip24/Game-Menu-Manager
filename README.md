@@ -39,6 +39,8 @@ Silakan download versi terbaru di halaman **[Releases](../../releases)**.
 
 ## 🖼️ Screenshots
 
-*(Tambahkan screenshot aplikasi di sini)*
+![Image](https://github.com/user-attachments/assets/3741571e-e122-4db8-8c7e-54fe2990e0a4)
+![Image](https://github.com/user-attachments/assets/7c1423cf-a97e-4f80-99fe-671844cdcd37)
+![Image](https://github.com/user-attachments/assets/b1d78ff3-d5fd-4c7f-8df3-feb5479f8b03)
 
 ---
